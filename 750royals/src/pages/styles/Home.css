@@ -7,3 +7,25 @@
     top: 0px;
 }
 
+#home_title {
+    font-size: 128px;
+    margin-top: 200px;
+    margin-left: 15vw;
+    z-index: 1;
+    color: white;
+    font-family: "Century Gothic";
+    font-weight: bold;
+    text-transform: uppercase;
+    position: relative;
+}
+
+#home_subtitle {
+    font-size: 48px;
+    margin-left: 15vw;
+    z-index: 1;
+    color: rgb(200, 200, 200);
+    font-family: "Century Gothic";
+    font-weight: bold;
+    position: relative;
+    bottom: 125px;
+}

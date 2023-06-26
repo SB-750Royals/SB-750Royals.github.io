@@ -236,7 +236,7 @@
 #menu_gradient {
     width: 100vw;
     height: 100px;
-    margin-top: 175px;
+    margin-top: 170px;
     background: linear-gradient(
         to bottom,
         hsl(0, 0%, 0%) 0%,

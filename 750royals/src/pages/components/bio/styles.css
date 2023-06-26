@@ -5,7 +5,7 @@
     margin-right: 25px;
     margin-top: 25px;
     margin-bottom: 25px;
-    border-radius: 1vw;
+    border-radius: 10px;
     border-style: solid;
     border-color: white;
     position: relative;
@@ -14,7 +14,7 @@
 #bio_image {
     width: 250px;
     height: 250px;
-    border-radius: 1vw;
+    border-radius: 10px;
     object-fit: cover;
     filter: saturate(0%);
     transition: filter 1s;
@@ -28,7 +28,7 @@
 #bio_image_filter {
     width: 250px;
     height: 250px;
-    border-radius: 1vw;
+    border-radius: 10px;
     object-fit: cover;
     position: absolute;
     transition: opacity 0.25s;
