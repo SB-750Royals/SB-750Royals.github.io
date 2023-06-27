@@ -8,24 +8,139 @@
 }
 
 #home_title {
-    font-size: 128px;
+    font-size: 100px;
     margin-top: 200px;
     margin-left: 15vw;
     z-index: 1;
     color: white;
-    font-family: "Century Gothic";
-    font-weight: bold;
+    font-family: "Poppins";
+    font-weight: 800;
+    line-height: 100px;
     text-transform: uppercase;
     position: relative;
 }
 
 #home_subtitle {
-    font-size: 48px;
+    font-size: 36px;
     margin-left: 15vw;
     z-index: 1;
+    line-height: 36px;
     color: rgb(200, 200, 200);
-    font-family: "Century Gothic";
+    font-family: "Poppins";
     font-weight: bold;
     position: relative;
-    bottom: 125px;
+    padding-right: 50px;
+    bottom: 100px;
+}
+
+.home_section_title {
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: relative;
+    color: white;
+    font-family: "Poppins";
+    font-size: 64px;
+    text-transform: uppercase;
+    line-height: 48px;
+    font-weight: bold;
+}
+
+#home_section_image {
+    width: 80vw;
+    height: 40vw;
+    margin-left: 10vw;
+    object-fit: cover;
+    position: relative;
+    bottom: 30px;
+}
+
+#home_section_body {
+    width: 80vw;
+    margin-left: 10vw;
+    position: relative;
+    font-family: "Poppins";
+    color: white;
+    font-size: 24px;
+    bottom: 30px;
+    text-align: center;
+}
+
+#home_what {
+    display: inline-flex;
+    margin-left: calc(50vw - 515px);
+}
+
+.home_what_section {
+    width: 300px;
+    height: 500px;
+    margin-left: 25px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    position: relative;
+}
+
+.home_what_subtitle {
+    position: relative;
+    color: white;
+    font-family: "Poppins";
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    top: 250px;
+}
+
+.home_what_subbody {
+    width: 250px;
+    margin-left: 25px;
+    text-align: center;
+    color: white;
+    font-family: "Poppins";
+    font-size: 18px;
+    position: relative;
+    top: 215px;
+}
+
+@media (max-width: 600px)
+{
+    #home_title {
+        font-size: 64px;
+        line-height: 64px;
+    }
+
+    #home_subtitle {
+        font-size: 30px;
+        bottom: 60px;
+    }
+
+    .home_section_title {
+        font-size: 48px;
+    }
+
+    #home_section_body {
+        font-size: 16px;
+    }
+
+}
+
+@media (max-width: 1000px) {
+
+    #home_what {
+        display: block;
+        position: relative;
+        bottom: 40px;
+        margin-left: 0px;
+    }
+
+    .home_what_section {
+        margin-top: 25px;
+        margin-left: calc(50vw - 150px);
+    }
+
+    #home_build {
+        margin-top: 50px;
+    }
+
 }
