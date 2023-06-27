@@ -1,6 +1,6 @@
 import './styles/Home.css';
 import React from "react";
-import Temp from "./images/members/temp.png";
+import Team from "./images/Team.jpg";
 import ContactUs from './components/contact/main';
 
 function Home() {
@@ -10,7 +10,7 @@ function Home() {
             <p id="home_title">750<br></br>Royals</p>
             <p id="home_subtitle">South Brunswick High School</p>
             <p class="home_section_title" style={{marginTop:"150px"}}>About Our Team</p>
-            <img id="home_section_image" src={Temp} alt=""></img>
+            <img id="home_section_image" src={Team} alt=""></img>
             <p id="home_section_body">750R is a part of the South Brunswick High School robotics program. During their first year as a team, they exceeded all expectations and qualified for the 2019 VEX Robotics World Championships! They believe that the key to success is remaining organized and level-headed through adversity. They plan to achieve this by having clear communication with the whole team and balancing the workload between all their members. This year they hope to continue their success into the new season.</p>
             <p class="home_section_title" style={{marginTop: "100px"}}>What we do</p>
             <p id="home_section_body">Each year, we create a different robot for a different game created by VEX. We follow the design cycle to help us achieve our goals of creating the most efficient robot design.</p>
