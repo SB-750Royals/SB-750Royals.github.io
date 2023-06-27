@@ -7,17 +7,18 @@ import Outreach from "./pages/Outreach";
 import Error from "./pages/Error";
 
 function App() {
+
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Layout />}>
-          <Route index element={<Home />} />
-          <Route path="about-us" element={<AboutUs />} />
-          <Route path="awards" element={<Awards />} />
-          <Route path="outreach" element={<Outreach />} />
-          <Route path="*" element={<Error />} />
-        </Route>
-      </Routes>
+            <Route path="/" element={<Layout />}>
+                <Route index element={<Home />} />
+                <Route path="about-us" element={<AboutUs />} />
+                <Route path="awards" element={<Awards />} />
+                <Route path="outreach" element={<Outreach />} />
+                <Route path="*" element={<Error />} />
+            </Route>
+        </Routes>
     </BrowserRouter>
   );
 }
