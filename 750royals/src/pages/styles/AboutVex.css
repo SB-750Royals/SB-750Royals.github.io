@@ -1,6 +1,0 @@
-#aboutvex_background {
-    width: 100vw;
-    height: 100vh;
-    position: fixed;
-    background: linear-gradient(to bottom, rgb(120, 40, 40), rgb(210, 50, 50));
-}

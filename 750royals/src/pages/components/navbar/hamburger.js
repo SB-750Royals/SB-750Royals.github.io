@@ -32,8 +32,6 @@ function SmallNavbar() {
                     <br class="menu_split"></br>
                     <Link to="/about-us" class="navbar_link" id={(currentPage === '/about-us' || currentPage === '/about-us/') ? "navbar_link_selected":""} onClick = {() => setMenuOpen(!menuOpen)}>About Us</Link>
                     <br class="menu_split"></br>
-                    <Link to="/about-vex" class="navbar_link" id={(currentPage === '/about-vex' || currentPage === '/about-vex/') ? "navbar_link_selected":""} onClick = {() => setMenuOpen(!menuOpen)}>About VEX</Link>
-                    <br class="menu_split"></br>
                     <Link to="/awards" class="navbar_link" id={(currentPage === '/awards' || currentPage === '/awards/') ? "navbar_link_selected":""} onClick = {() => setMenuOpen(!menuOpen)}>Awards</Link>
                     <br class="menu_split"></br>
                     <Link to="/outreach" class="navbar_link" id={(currentPage === '/outreach' || currentPage === '/outreach/') ? "navbar_link_selected":""} onClick = {() => setMenuOpen(!menuOpen)}>Outreach</Link>

@@ -17,7 +17,6 @@ function Navbar() {
             <div id="navbar_links">
                 <Link to="/" class="navbar_link" id={(currentPage === '/' || currentPage === '') ? "navbar_link_selected":""}>Home</Link>
                 <Link to="/about-us" class="navbar_link" id={(currentPage === '/about-us' || currentPage === '/about-us/') ? "navbar_link_selected":""}>About Us</Link>
-                <Link to="/about-vex" class="navbar_link" id={(currentPage === '/about-vex' || currentPage === '/about-vex/') ? "navbar_link_selected":""}>About VEX</Link>
                 <Link to="/awards" class="navbar_link" id={(currentPage === '/awards' || currentPage === '/awards/') ? "navbar_link_selected":""}>Awards</Link>
                 <Link to="/outreach" class="navbar_link" id={(currentPage === '/outreach' || currentPage === '/outreach/') ? "navbar_link_selected":""}>Outreach</Link>
             </div>

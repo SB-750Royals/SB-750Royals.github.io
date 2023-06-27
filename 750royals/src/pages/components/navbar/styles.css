@@ -195,7 +195,7 @@
 
 #menu_closed {
     width: 100vw;
-    height: 200px;
+    height: 160px;
     top: 0px;
     left: 0px;
     position: fixed;
@@ -209,7 +209,7 @@
 
 #menu_opened { 
     width: 100vw;
-    height: 200px;
+    height: 160px;
     top: 0px;
     left: 0px;
     position: fixed;
@@ -223,7 +223,7 @@
 
 #menu_solid {
     width: 100vw;
-    height: 200px;
+    height: 160px;
     top: 0px;
     left: 0px;
     position: fixed;
@@ -236,7 +236,7 @@
 #menu_gradient {
     width: 100vw;
     height: 100px;
-    margin-top: 195px;
+    margin-top: 155px;
     background: linear-gradient(
         to bottom,
         hsl(0, 0%, 0%) 0%,

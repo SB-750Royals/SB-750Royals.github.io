@@ -2,7 +2,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/Layout"
 import Home from "./pages/Home";
 import AboutUs from "./pages/AboutUs";
-import AboutVex from "./pages/AboutVex";
 import Awards from "./pages/Awards";
 import Outreach from "./pages/Outreach";
 import Error from "./pages/Error";
@@ -14,7 +13,6 @@ function App() {
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="about-us" element={<AboutUs />} />
-          <Route path="about-vex" element={<AboutVex />} />
           <Route path="awards" element={<Awards />} />
           <Route path="outreach" element={<Outreach />} />
           <Route path="*" element={<Error />} />

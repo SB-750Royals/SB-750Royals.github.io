@@ -7,10 +7,10 @@ import Footer from "./components/footer/main.js";
 
 function Layout() {
     
-    const [navbar, setNavbar] = useState(window.innerWidth > 1000);
+    const [navbar, setNavbar] = useState(window.innerWidth > 750);
 
     const updateNavbar = () => {
-        setNavbar(window.innerWidth > 1000);
+        setNavbar(window.innerWidth > 750);
     };
     
     useEffect(() => {
