@@ -53,11 +53,11 @@
 }
 
 .bio_text {
-    font-size: 17px;
+    font-size: 16.5px;
     left: 10px;
     margin-top: 175px;
     color: transparent;
-    font-family: "Century Gothic";
+    font-family: "Poppins";
     position: absolute;
     transition-property: color, text-shadow, transform;
     transition-duration: 0.25s;

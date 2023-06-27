@@ -51,8 +51,8 @@
     height: 18px;
     font-size: 18px;
     color: white;
-    font-family: "Century Gothic";
-    text-underline-offset: 9px;
+    font-family: "Poppins";
+    text-underline-offset: 8px;
     text-decoration: none;
     text-transform: uppercase;
     transition: text-shadow 0.25s;
@@ -195,7 +195,7 @@
 
 #menu_closed {
     width: 100vw;
-    height: 175px;
+    height: 200px;
     top: 0px;
     left: 0px;
     position: fixed;
@@ -209,7 +209,7 @@
 
 #menu_opened { 
     width: 100vw;
-    height: 175px;
+    height: 200px;
     top: 0px;
     left: 0px;
     position: fixed;
@@ -223,7 +223,7 @@
 
 #menu_solid {
     width: 100vw;
-    height: 175px;
+    height: 200px;
     top: 0px;
     left: 0px;
     position: fixed;
@@ -236,7 +236,7 @@
 #menu_gradient {
     width: 100vw;
     height: 100px;
-    margin-top: 170px;
+    margin-top: 195px;
     background: linear-gradient(
         to bottom,
         hsl(0, 0%, 0%) 0%,

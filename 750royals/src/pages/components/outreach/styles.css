@@ -20,7 +20,7 @@
 #outreach_section_title {
     font-size: 48px;
     color: white;
-    font-family: "Century Gothic";
+    font-family: "Poppins";
     text-transform: uppercase;
     font-weight: bold;
     position: absolute;
@@ -32,7 +32,7 @@
     width: calc(90vw - 300px);
     font-size: 18px;
     color: white;
-    font-family: "Century Gothic";
+    font-family: "Poppins";
     position: absolute;
     left: 250px;
     top: 55px;

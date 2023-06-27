@@ -15,7 +15,7 @@
     margin-left: 50px;
     font-size: 18px;
     color: white;
-    font-family: "Century Gothic";
+    font-family: "Poppins";
     font-weight: bold;
     text-transform: uppercase;
     position: absolute;
@@ -23,13 +23,13 @@
 }
 
 #layout_footer_organization {
-    width: 120px;
+    width: 130px;
     height: 50px;
     margin-top: 60px;
-    margin-left: calc(100vw - 170px);
+    margin-left: calc(100vw - 180px);
     font-size: 18px;
     color: white;
-    font-family: "Century Gothic";
+    font-family: "Poppins";
     font-weight: bold;
     text-transform: uppercase;
     position: absolute;
