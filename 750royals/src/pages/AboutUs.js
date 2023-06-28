@@ -28,9 +28,9 @@ function AboutUs() {
                 <Bio name="Vivek Banker" role="Lead CAD" grade="Class of 2026" image={Vivek} r='100' g='200' b='100'></Bio>
                 <Bio name="Yegna Bodepudi" role="Builder" grade="Class of 2026" image={Yegna} r='250' g='100' b='100'></Bio>
                 <Bio name="Vihaan Pardeshi" role="Programmer" grade="Class of 2026" image={Vihaan}  r='100' g='100' b='250'></Bio>
-                <Bio name="Slave #1" role="Recruit" grade="Class of 2027" image={Anushree} r='100' g='200' b='100'></Bio>
-                <Bio name="Slave #2" role="Recruit" grade="Class of 2027" image={Logo} r='250' g='100' b='100'></Bio>
-                <Bio name="Slave #3" role="Recruit" grade="Class of 2027" image={Logo}  r='100' g='100' b='250'></Bio>
+                <Bio name="Anushree Chidambaram" role="Recruit" grade="Class of 2027" image={Anushree} r='100' g='200' b='100'></Bio>
+                <Bio name="Arjun Gilhotra" role="Recruit" grade="Class of 2027" image={Logo} r='250' g='100' b='100'></Bio>
+                <Bio name="Haripranav Yandrapu" role="Recruit" grade="Class of 2027" image={Logo}  r='100' g='100' b='250'></Bio>
             </div>
         </div>
     );
