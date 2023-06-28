@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f4dbfe2.css",
+    "main.js": "/static/js/main.98725d0c.js",
+    "static/js/787.7ab335dc.chunk.js": "/static/js/787.7ab335dc.chunk.js",
+    "static/media/Awards.png": "/static/media/Awards.46c10827e5474b0be9f9.png",
+    "static/media/LeapCoderz.jpg": "/static/media/LeapCoderz.b7ea218216ed8afc8f65.jpg",
+    "static/media/Program.gif": "/static/media/Program.ba179aa3904ea4fd2c61.gif",
+    "static/media/CAD.gif": "/static/media/CAD.aa1fdf7877d4a5a315b8.gif",
+    "static/media/Vignesh.png": "/static/media/Vignesh.1cfe74f5b73efbb0b380.png",
+    "static/media/Tejas.png": "/static/media/Tejas.d60fa1140ee9a038ea11.png",
+    "static/media/Anushree.png": "/static/media/Anushree.05290695bfe4bc60f7d9.png",
+    "static/media/Vivek.png": "/static/media/Vivek.5df75864b18f8c7835e7.png",
+    "static/media/Build.gif": "/static/media/Build.cf298f0cd71b4d4325fd.gif",
+    "static/media/Esha.png": "/static/media/Esha.5744af7fb55ff7e49afb.png",
+    "static/media/Abhaya.png": "/static/media/Abhaya.ef1de411b69b94b6ec71.png",
+    "static/media/Rakshna.png": "/static/media/Rakshna.a5c275b931e6f8ec7e60.png",
+    "static/media/Team.jpg": "/static/media/Team.e92e2d6cce2f1ee2a9e3.jpg",
+    "static/media/Anika.png": "/static/media/Anika.82734242ddac1cd045e5.png",
+    "static/media/Yegna.png": "/static/media/Yegna.2b1b69559b3f1551b7b4.png",
+    "static/media/Logo.png": "/static/media/Logo.226111ec9782a2304738.png",
+    "static/media/Vihaan.png": "/static/media/Vihaan.2a98775d1eca4a4f3dfa.png",
+    "static/media/Instagram.png": "/static/media/Instagram.2c578468f653e33179a5.png",
+    "static/media/Github.png": "/static/media/Github.fcc6436246a3316610ec.png",
+    "index.html": "/index.html",
+    "main.4f4dbfe2.css.map": "/static/css/main.4f4dbfe2.css.map",
+    "main.98725d0c.js.map": "/static/js/main.98725d0c.js.map",
+    "787.7ab335dc.chunk.js.map": "/static/js/787.7ab335dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f4dbfe2.css",
+    "static/js/main.98725d0c.js"
+  ]
+}
