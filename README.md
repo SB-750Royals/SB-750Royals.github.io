@@ -29,5 +29,5 @@
 
 ## Acknowledgements
 
- - [Created by Tejas Raghuram](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Created by Tejas Raghuram](https://github.com/TejasRaghuram)
  - [Awesome Readme](https://readme.so/editor)
