@@ -10,11 +10,11 @@
 - [Esha Vigneshwaran](https://github.com/eshavignesh123) - President
 - [Vignesh Saravanakumar](https://github.com/vigneshsaravanakumar404)- Captain
 - [Anika Thakur](https://github.com/anikat2) - Vice Captain & Lead build
-- [@TejasRaghuram](https://github.com/TejasRaghuram) - Lead Programmer
+- [Tejas Raghuram](https://github.com/TejasRaghuram) - Lead Programmer
 - [Abhaya Avalur](https://github.com/AbhayaAvalur) - Lead Notebook 
 - [Rakshna Ravishankar](https://github.com/RakshnaRavi) - Lead Notebook
 - [Vivek Banker](https://github.com/HUNTER-prog) - Head CAD
-- [@Vihaan21](https://github.com/Vihaan21)
+- [Vihaan Pardeshi](https://github.com/Vihaan21)
 - [Yegna Bodepudi](https://github.com/YegnaB) - Builder
 - [Nicholas Keller](https://github.com/Nicholask2023)- Recruit
 - [Haripranav Yandrapu](https://github.com/ThReT0) - Recruit
