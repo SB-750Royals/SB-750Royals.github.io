@@ -26,6 +26,7 @@
     <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/React-Dark.svg" width="64" height="64" alt="React">
     <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/Github-Dark.svg" width="64" height="64" alt="Github">
 </div>
+
 ## Acknowledgements
 
  - [Created by Tejas Raghuram](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
